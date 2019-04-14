@@ -1,0 +1,10 @@
+platformName: Android
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62001
+appPackage: com.ss.android.article.lite
+appActivity: com.ss.android.article.lite.activity.MainActivity
+unicodeKeyboard: True
+resetKeyboard: True
+noReset: True
+ip: 192.168.2.143
+port: 4723
